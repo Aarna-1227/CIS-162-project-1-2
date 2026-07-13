@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="keywords" content="Aarna Jain, school, Whitney High School, dual enrollment">
+  <meta name="description" content="School activities and coursework for Aarna Jain.">
+  <title>Project 1-4 - School</title>
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap" rel="stylesheet">
+ 
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <div id="wrapper">
+
+    <header>
+      <h1>Aarna Jain</h1>
+    </header>
+
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="school.html">School</a></li>
+      </ul>
+    </nav>
+
+    <main>
+      <section id="leftColumn">
+        <h2>Whitney High School & Dual Enrollment</h2>
+        <p>I attend Whitney High School where I participate in athletics and academics. Through dual enrollment, I am taking college courses alongside my high school curriculum to work toward my associate degree.</p>
+        
+        <h3>Athletics</h3>
+        <ul>
+          <li><strong>Swimming:</strong> Member of the varsity team for 3 years (10 years experience).</li>
+          <li><strong>Water Polo:</strong> Active player for 1 year.</li>
+        </ul>
+      </section>
+
+      <section id="rightColumn">
+        <h3>Current Focus</h3>
+        <p>Focusing on computer science courses, dual enrollment degree requirements, and preparing for college applications.</p>
+      </section>
+    </main>
+
+    <footer>
+      <p>Email: <a href="mailto:aarnajain1227@gmail.com">aarnajain1227@gmail.com</a></p>
+      <p>Last updated on: 07/12/2026</p>
+    </footer>
+
+  </div>
+
+</body>
+</html>
